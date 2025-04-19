@@ -1,7 +1,7 @@
 # TALENT_TRACK_AI
 ![image1](images/image1.png)
 ![image2](images/image2.png)
-
+![image2](images/image3.png)
 
 
 ## Purpose
@@ -52,9 +52,9 @@ TalentTrack AI is an AI-powered pre-interview system designed to streamline recr
    - Stress levels
    - Emotional state
 3. Results are displayed as interactive graphs and detailed reports on the interface.
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image4.png?raw=true)
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image5.png?raw=true)
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image6.png?raw=true)
+![image2](images/image4.png)
+![image2](images/image5.png)
+![image2](images/image6.png)
 
 
 ## Value Proposition
