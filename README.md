@@ -1,7 +1,7 @@
 # TALENT_TRACK_AI
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image1.png?raw=true)
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image2.png?raw=true)
-![image](https://github.com/sonaykaraaslan/talent-track-ai/blob/main/images/image3.png?raw=true)
+![image1](images/image1.png)
+![image2](images/image2.png)
+
 
 
 ## Purpose
